@@ -11,7 +11,7 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/eduardo valencia" target="blank"><img align="center" src="https://raw.githubusercontent.
+<a href="https://linkedin.com/in/eduardo-valencia-336423264" target="blank"><img align="center" src="https://raw.githubusercontent .
 
 
 <h3 align="left">Idiomas y herramientas:</h3>
@@ -22,3 +22,4 @@
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=auri08v&show_icons=true&locale=en" alt="auri08v" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=auri08v&" alt="auri08v" /></p>
+
